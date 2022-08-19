@@ -22,3 +22,4 @@ elif resposta > 5:
 
 elif resposta != num:
     print(f'Resposta Incorreta! O número era {num}')
+    

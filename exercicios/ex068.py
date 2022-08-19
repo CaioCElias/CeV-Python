@@ -41,4 +41,3 @@ while True:
 # Fim de jogo
 print('=-'*15)
 print(f'GAME OVER! Você venceu {count} vezes')
-
