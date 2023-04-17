@@ -2,6 +2,7 @@
 # > O nome com todas as letras maiúsculas e minúsculas.
 # > Quantas letras ao todo (sem considerar espaços).
 # > Quantas letras tem o primeiro nome.
+
 nome = input('Digite seu nome completo: ').strip()
 print('Analisando seu nome...')
 import time

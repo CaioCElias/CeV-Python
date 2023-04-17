@@ -2,6 +2,7 @@
 # > Quantas vezes aparece a letra "A".
 # > Em que posição ela aparece a primeira vez.
 # > Em que posição ela aparece a última vez.
+
 frase = input('Digite uma frase: ').strip().upper()
 
 # Contar palavra na frase

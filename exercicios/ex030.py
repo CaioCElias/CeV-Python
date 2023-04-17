@@ -1,4 +1,5 @@
 # Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+
 num = int(input('Me diz um número: '))
 
 # Mostrar de é Impar ou par

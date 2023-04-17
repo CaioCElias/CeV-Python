@@ -4,6 +4,7 @@
 # [ 3 ] Maior
 # [ 4 ] Novos Números
 # [ 5 ] Sair do Programa
+
 from time import sleep
 num1 = int(input('Primeiro valor: '))
 num2 = int(input('Segundo valor: '))

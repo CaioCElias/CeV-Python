@@ -1,13 +1,8 @@
-"""
-EXERCÍCIO 073: Tuplas com Times de Futebol
-Crie uma tupla preenchida com os 20 primeiros colocados da Tabela
-do Campeonato Brasileiro de Futebol, na ordem de colocação.
-Depois mostre:
-A) Os 5 primeiros.
-B) Os últimos 4 colocados.
-C) Times em ordem alfabética.
-D) Em que posição está o time da Chapecoense.
-"""
+# Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
+# > Os 5 primeiros.
+# > Os últimos 4 colocados.
+# > Times em ordem alfabética.
+# > Em que posição está o time da Chapecoense.
 
 times = 'Goiás', 'São Paulo', 'Sport Recife', 'Grêmio', 'Botafogo', 'Flamengo', 'Fluminense', 'Corinthians', \
         'Atlético mineiro', 'Coritiba', 'Vasco da Gama', 'Fortaleza', 'Atlético Goianiense', 'Santos', \

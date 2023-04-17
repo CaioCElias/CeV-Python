@@ -1,4 +1,5 @@
 # Faça um programa que leia um número qualquer e mostre seu fatorial.
+
 from math import factorial
 fatorial = int(input('Digite um número para calcular o fatorial: '))
 print(f'\033[1;31mCalculando {fatorial}!\033[m', end=' → ')
